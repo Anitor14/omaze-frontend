@@ -12,12 +12,12 @@
 
 
         <!-- Start Slider Area  -->
-        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--3" 
+        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--1" 
             data-black-overlay="7">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="inner text-center">
+                        <div class="inner text-left">
                             <!-- <span class="subtitle">DIGITAL CONSULTING AGENCY</span> -->
                             <h1 class="title display-one">ENTER FOR THE TAHOE DREAM HOUSE BY 2/4</h1>
                             <!-- <p class="description">We help our clients succeed by creating brand identities, digital
@@ -44,7 +44,7 @@
         </div>
         <!-- End Seperator Area  -->
         <!-- start Slider Area -->
-        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--3" 
+        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--8" 
             data-black-overlay="7">
             <div class="container">
                 <div class="row">
@@ -87,7 +87,7 @@
                     </div>
         </div>
              <!-- Start Slider Area  -->
-        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--3" 
+        <div class="slider-area slider-style-1 variation-default height-750 bg_image bg_image--18" 
             data-black-overlay="7">
             <div class="container">
                 <div class="row">
@@ -117,9 +117,31 @@
             </div>
         </div>
         <!-- End Seperator Area  -->
+                <!-- Start Brand Area  -->
+        <div class="rwt-brand-area pb--60 pt--30">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 mt--10">
+                        <h3 class="text-center">Featured In</h3>
+                        <ul class="brand-list brand-style-2">
+                            <li><a href="#"><img src="assets/images/brand/brand-01.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-02.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-03.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-04.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-05.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-06.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-07.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-08.png" alt="Brand Image"></a></li>
+                            <li><a href="#"><img src="assets/images/brand/brand-01.png" alt="Brand Image"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Brand Area  -->
 
         <!-- Start Service-5 Area  -->
-        <div class="rn-service-area rn-section-gap">
+        <!-- <div class="rn-service-area rn-section-gap">
             <div class="container">
                 <div class="row row--15 service-wrapper">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="800">
@@ -164,7 +186,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Start Service-5 Area  -->
 
         <!-- Start Seperator Area  -->
@@ -176,196 +198,6 @@
         <!-- End Seperator Area  -->
 
         <!-- Start Portfolio Area  -->
-        <div class="rwt-portfolio-area rn-section-gap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center" data-sal="slide-up" data-sal-duration="700"
-                            data-sal-delay="100">
-                            <h4 class="subtitle "><span class="theme-gradient">Business Projects</span></h4>
-                            <h2 class="title w-600 mb--20">Business Case Studies.!</h2>
-                            <p class="description b1">We provide company and finance service for <br> startups and
-                                company business.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-
-                        <div class="rwt-portfolio-filter filter-button-default messonry-button text-center mb--30">
-                            <button data-filter="*" class="is-checked"><span class="filter-text">All</span></button>
-                            <button data-filter=".cat--1"><span class="filter-text">design</span></button>
-                            <button data-filter=".cat--2"><span class="filter-text">art</span></button>
-                            <button data-filter=".cat--3"><span class="filter-text">development</span></button>
-                        </div>
-
-                        <div class="portfolio-items grid-metro3 mesonry-list">
-                            <div class="resizer"></div>
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--1 cat--3">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-01.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">App Development</a>
-                                            </h5>
-                                            <span class="subtitle b2">development</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--2 cat--1"
-                                style="position: absolute; left: 33.2574%; top: 0px;">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-02.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">Business Development</a>
-                                            </h5>
-                                            <span class="subtitle b2">design</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--3 cat--2 cat--1"
-                                style="position: absolute; left: 66.5907%; top: 0px;">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-03.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">Photoshop Design</a>
-                                            </h5>
-                                            <span class="subtitle b2">art</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--3 cat--2" style="position: absolute; left: 0%; top: 415px;">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-04.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">Native Application</a>
-                                            </h5>
-                                            <span class="subtitle b2">development</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--2 cat--1"
-                                style="position: absolute; left: 33.2574%; top: 415px;">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-05.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">React Development</a>
-                                            </h5>
-                                            <span class="subtitle b2">Application</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-
-                            <!-- Start Single Portfolio  -->
-                            <div class="portfolio-3 cat--3 cat--2 cat--1"
-                                style="position: absolute; left: 66.5907%; top: 415px;">
-                                <div class="rwt-card portfolio">
-                                    <div class="inner">
-                                        <div class="thumbnail">
-                                            <figure class="card-image">
-                                                <a href="portfolio-details.html">
-                                                    <img src="assets/images/portfolio/portfolio-06.jpg"
-                                                        alt="Portfolio-01">
-                                                </a>
-                                            </figure>
-                                            <a class="rwt-overlay" href="portfolio-details.html"></a>
-                                        </div>
-                                        <div class="content">
-                                            <h5 class="title mb--10">
-                                                <a href="portfolio-details.html">App Installment</a>
-                                            </h5>
-                                            <span class="subtitle b2">Photoshop</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Start Single Portfolio  -->
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Start Load More Button  -->
-                <div class="row row--15">
-                    <div class="col-lg-12">
-                        <div class="rwt-load-more text-center mt--60">
-                            <a href="portfolio.html" class="btn btn-default btn-large btn-icon">
-                                <span>Load More <span class="icon feather-loader"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Load More Button  -->
-
-            </div>
-        </div>
         <!-- End Portfolio Area  -->
         <!-- Start Seperator Area  -->
         <div class="rbt-separator-mid">
@@ -554,106 +386,7 @@
 
 
         <!-- Start final testimonial  -->
-        <div class="rwt-testimonial-area rn-section-gap">
-            <div class="container">
-                <div class="row mb--20">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center" data-sal="slide-up" data-sal-duration="700"
-                            data-sal-delay="100">
-                            <h4 class="subtitle "><span class="theme-gradient">Client Feedback</span></h4>
-                            <h2 class="title w-600 mb--20">Our Clients Feedback.</h2>
-                            <p class="description b1">We provide company and finance service for <br> startups and
-                                company business.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row rn-slick-dot rn-slick-arrow testimonial-activation row">
-
-                    <div class="col-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two " tabindex="-1" style="width: 100%; display: inline-block;">
-                            <div class="row align-items-center row--20">
-                                <div class="order-2 order-md-1 col-lg-6 col-md-8 offset-lg-1">
-                                    <div class="content mt_sm--40"><span class="form">POLAND</span>
-                                        <p class="description">What I am primarily looking for with new projects is a
-                                            fit on both a visual and aesthetic level as well as on a personal level with
-                                            the client.
-                                        </p>
-                                        <div class="client-info">
-                                            <h4 class="title">Janen</h4>
-                                            <h6 class="subtitle">App Developer</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="order-1 order-md-2 col-lg-4 col-md-4">
-                                    <div class="thumbnail">
-                                        <img class="w-100" src="assets/images/testimonial/testimonial-dark-01.jpg"
-                                            alt="Corporate Template">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-
-
-                    <div class="call-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two " tabindex="-1" style="width: 100%; display: inline-block;">
-                            <div class="row align-items-center row--20">
-                                <div class="order-2 order-md-1 col-lg-6 col-md-8 offset-lg-1">
-                                    <div class="content mt_sm--40"><span class="form">GERMANY</span>
-                                        <p class="description">What I am primarily looking for with
-                                            new projects is a fit on both a visual and aesthetic
-                                            level as well as on a personal level with the client.
-                                        </p>
-                                        <div class="client-info">
-                                            <h4 class="title">Kohn Hue</h4>
-                                            <h6 class="subtitle">App Developer</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="order-1 order-md-2 col-lg-4 col-md-4">
-                                    <div class="thumbnail">
-                                        <img class="w-100" src="assets/images/testimonial/testimonial-dark-02.jpg"
-                                            alt="Corporate Template">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-
-                    <div class="coll-lg-12">
-                        <!-- Start single Testimonial -->
-                        <div class="testimonial-style-two " tabindex="-1" style="width: 100%; display: inline-block;">
-                            <div class="row align-items-center row--20">
-                                <div class="order-2 order-md-1 col-lg-6 col-md-8 offset-lg-1">
-                                    <div class="content mt_sm--40"><span class="form">USA</span>
-                                        <p class="description">What I am primarily looking for with
-                                            new projects is a fit on both a visual and aesthetic
-                                            level as well as on a personal level with the client.
-                                        </p>
-                                        <div class="client-info">
-                                            <h4 class="title">John Due</h4>
-                                            <h6 class="subtitle">App Developer</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="order-1 order-md-2 col-lg-4 col-md-4">
-                                    <div class="thumbnail">
-                                        <img class="w-100" src="assets/images/testimonial/testimonial-dark-03.jpg"
-                                            alt="Corporate Template">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End single Testimonial -->
-                    </div>
-
-                </div>
-            </div>
-        </div>
+    
         <!-- End final testimonial  -->
 
         <!-- Start Seperator Area  -->
@@ -665,116 +398,11 @@
         <!-- End Seperator Area  -->
 
         <!-- Start Blog Area  -->
-        <div class="rn-blog-area rn-section-gap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center" data-sal="slide-up" data-sal-duration="700"
-                            data-sal-delay="100">
-                            <h4 class="subtitle "><span class="theme-gradient">Latests News</span></h4>
-                            <h2 class="title w-600 mb--20">Our Latest News.</h2>
-                            <p class="description b1">We provide company and finance service for <br> startups and
-                                company business.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row row--15">
-                    <div class="col-lg-4 col-md-6 col-12 mt--30" data-sal="slide-up" data-sal-duration="700"
-                        data-sal-delay="100">
-                        <div class="rn-card box-card-style-default">
-                            <div class="inner">
-                                <div class="thumbnail">
-                                    <a class="image" href="blog-details.html">
-                                        <img class="w-100" src="assets/images/blog-grid/blog-01.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <ul class="rn-meta-list">
-                                        <li><a href="#">Irin Pervin</a></li>
-                                        <li class="separator">/</li>
-                                        <li>10 Dec 2021</li>
-                                    </ul>
-                                    <h4 class="title"><a href="blog-details.html">Best Corporate Tips You
-                                            Will
-                                            Read This Year.</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-12 mt--30" data-sal="slide-up" data-sal-duration="700"
-                        data-sal-delay="200">
-                        <div class="rn-card box-card-style-default">
-                            <div class="inner">
-                                <div class="thumbnail">
-                                    <a class="image" href="blog-details.html">
-                                        <img class="w-100" src="assets/images/blog-grid/blog-02.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <ul class="rn-meta-list">
-                                        <li><a href="#">Fatima Asrafy</a></li>
-                                        <li class="separator">/</li>
-                                        <li>30 Nov 2021</li>
-                                    </ul>
-                                    <h4 class="title"><a href="blog-details.html">Should Fixing Corporate
-                                            Take
-                                            100 Steps.</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-12 mt--30" data-sal="slide-up" data-sal-duration="700"
-                        data-sal-delay="300">
-                        <div class="rn-card box-card-style-default">
-                            <div class="inner">
-                                <div class="thumbnail">
-                                    <a class="image" href="blog-details.html">
-                                        <img class="w-100" src="assets/images/blog-grid/blog-03.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <ul class="rn-meta-list">
-                                        <li><a href="#">John Dou</a></li>
-                                        <li class="separator">/</li>
-                                        <li>12 Oct 2021</li>
-                                    </ul>
-                                    <h4 class="title"><a href="blog-details.html">The Next 100 Things To
-                                            Immediately Do About.</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+  
         <!-- End Blog Area  -->
 
         <!-- Start Call To Action Area  -->
-        <div class="rwt-callto-action-area rn-section-gapBottom">
-            <div class="wrapper">
-                <div class="rn-callto-action clltoaction-style-default style-5">
-                    <div class="container">
-                        <div class="row row--0 align-items-center content-wrapper theme-shape">
-                            <div class="col-lg-12">
-                                <div class="inner">
-                                    <div class="content text-center">
-                                        <h2 class="title">Ready to start creating a standard website?</h2>
-                                        <h6 class="subtitle">Finest choice for your home &amp; office</h6>
-                                        <div class="call-to-btn">
-                                            <a class="btn-default btn-icon" href="#">Purchase Doob
-                                                <i class="feather-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    
         <!-- End Call To Action Area  -->
 
         <?php 

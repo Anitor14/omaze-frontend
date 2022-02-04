@@ -2,7 +2,7 @@
     require_once "header.php";
 ?>
 
-<div class="slider-area slider-style-1 variation-default height-650 bg_image bg_image--12" data-black-overlay="7">
+<div class="slider-area slider-style-1 variation-default height-650 bg_image bg_image--20" data-black-overlay="7">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">

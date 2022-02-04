@@ -19,7 +19,7 @@
                         <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                             <div class="rn-footer-widget">
                                 <div class="widget-menu-top">
-                                    <h4 class="title">Services</h4>
+                                    <h4 class="title">PRIZES</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
                                             <li><a href="testimonial.html">Testiminial</a></li>
@@ -29,7 +29,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="widget-menu-bottom">
+                                <!-- <div class="widget-menu-bottom">
                                     <h4 class="title">Products</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
@@ -39,24 +39,52 @@
                                             <li><a href="service.html">Service</a></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                             <div class="rn-footer-widget">
                                 <div class="widget-menu-top">
-                                    <h4 class="title">Company</h4>
+                                    <h4 class="title">PRIZES</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
-                                            <li><a href="index-corporate.html">Corporate</a></li>
-                                            <li><a href="portfolio.html">Portfolio</a></li>
-                                            <li><a href="index-seo-agency.html">SEO Agency</a></li>
-                                            <li><a href="index-web-agency.html">Web Agency</a></li>
+                                            <li><a href="cars.php">Cars</a></li>
+                                            <li><a href="celebrity.php">Celebrity</a></li>
+                                            <li><a href="financial.php">Financial Freedom</a></li>
+                                            <li><a href="house.php">Houses</a></li>
+                                            <li><a href="travel.php">Travel</a></li>
+                                            <li><a href="#">See All Prizes</a></li>
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="widget-menu-bottom">
-                                    <h4 class="title">Solutions</h4>
+                                <!-- <div class="widget-menu-bottom">
+                                    <h4 class="title">Products</h4>
+                                    <div class="inner">
+                                        <ul class="footer-link link-hover">
+                                            <li><a href="about.html">About</a></li>
+                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="service.html">Service</a></li>
+                                        </ul>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                            <div class="rn-footer-widget">
+                                <div class="widget-menu-top">
+                                    <h4 class="title">ABOUT</h4>
+                                    <div class="inner">
+                                        <ul class="footer-link link-hover">
+                                            <li><a href="about.php">About Us</a></li>
+                                            <li><a href="winners.php">Winners</a></li>
+                                            <li><a href="#">Impact</a></li>
+                                            <li><a href="Careers">Careers</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- <div class="widget-menu-bottom">
+                                    <h4 class="title">SUPPORT</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
                                             <li><a href="gallery.html">Gallery</a></li>
@@ -65,14 +93,14 @@
                                             <li><a href="service.html">Service</a></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                             <div class="rn-footer-widget">
                                 <h4 class="title">Newsletter</h4>
                                 <div class="inner">
-                                    <h6 class="subtitle">2000+ Our clients are subscribe Around the World</h6>
+                                    <!-- <h6 class="subtitle">2000+ Our clients are subscribe Around the World</h6> -->
                                     <form class="newsletter-form" action="#">
                                         <div class="form-group">
                                             <input type="email" placeholder="Enter Your Email Here">

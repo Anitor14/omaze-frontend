@@ -1,0 +1,5 @@
+{
+  "phpformatter.composer": true,
+  "prettier.enable": false,
+  "php-cs-fixer.toolPath": "path\\php-cs-fixer.phar"
+}

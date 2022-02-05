@@ -11,7 +11,7 @@
                                 <h3 class="rn-sub-badge"><span class="theme-gradient">Our Company's About
                                         Details.</span></h3>
                             </div> -->
-                            <h1 class="title display-one">MEET YOUR HEROES <br> BECOME A HERO</h1>
+                            <h1 class="title display-one">WIN SOME FUNDS  <br>FUNDS SOME DREAMS</h1>
                         </div>
                     </div>
                 </div>
@@ -19,13 +19,12 @@
 </div>
 <div class="blog-area rn-section-gap">
             <div class="container">
-                <div class="row">
+            <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
-                            <h4 class="subtitle "><span class="theme-gradient">Latests News</span></h4>
-                            <h2 class="title w-600 mb--20">Blogs On Travellings.</h2>
-                            <p class="description b1">We provide company and finance service for <br> startups and
-                                company business.</p>
+                            <!-- <h4 class="subtitle "><span class="theme-gradient">Latests News</span></h4> -->
+                            <h4>Dream experiences. Great causes.</h4>
+                            <p class="description b1">Omaze experiences raise funds for Charities Aid Foundation America (“CAF America”), a US-registered, 501(c)(3) public charity. 100% of donations go to CAF America, which will then grant the donations, minus experience fees and costs, to the nonprofit(s) identified on the experience page. For more info, see the “Fundraising Transparency” section at the bottom of each experience page.</p>
                         </div>
                     </div>
                 </div>

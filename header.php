@@ -58,7 +58,7 @@
         <header class="rn-header header-default header-transparent header-sticky">
             <div class="container position-relative">
                 <div class="row align-items-center row--0">
-                    <div class="col-lg-3 col-md-6 col-4">
+                    <div class="col-lg-2 col-md-6 col-4">
                         <div class="logo">
                             <a href="main.php">
                                 <img class="logo-light" src="assets/images/logo/logo.png" alt="Corporate Logo">
@@ -66,15 +66,15 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-9 col-md-6 col-8 position-static">
+                    <div class="col-lg-10 col-md-6 col-8 position-static">
                         <div class="header-right">
                             <nav class="mainmenu-nav d-none d-lg-block">
                                 <ul class="mainmenu">
                                     <li><a href="cars.php">Cars</a>
                                     </li>
                                     <li><a href="celebrity.php">Celebrity</a></li>
-                                    <!-- <li><a href="#">Financial Freedom</a>
-                                    </li> -->
+                                    <li><a href="financial.php">Financial Freedom</a>
+                                    </li>
 
                                     <li><a href="house.php">House</a>
                                     </li>
@@ -94,9 +94,9 @@
 
                             </nav>
                             <!-- Start Header Btn  -->
-                            <div class="header-btn"><a class="btn-default btn-small round" target="_blank"
+                            <!-- <div class="header-btn"><a class="btn-default btn-small round" target="_blank"
                                     href="https://themeforest.net/checkout/from_item/34133466?license=regular">BUY
-                                    NOW</a></div>
+                                    NOW</a></div> -->
                             <!-- End Header Btn  -->
 
                             <!-- Start Mobile-Menu-Bar -->

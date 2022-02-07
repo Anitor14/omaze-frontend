@@ -60,7 +60,7 @@
                 <div class="row align-items-center row--0">
                     <div class="col-lg-2 col-md-6 col-4">
                         <div class="logo">
-                            <a href="main.php">
+                            <a href="main">
                                 <img class="logo-light" src="assets/images/logo/logo.png" alt="Corporate Logo">
                                 <img class="logo-dark" src="assets/images/logo/logo-dark.png" alt="Corporate Logo">
                             </a>
@@ -70,20 +70,20 @@
                         <div class="header-right">
                             <nav class="mainmenu-nav d-none d-lg-block">
                                 <ul class="mainmenu">
-                                    <li><a href="cars.php">Cars</a>
+                                    <li><a href="cars">Cars</a>
                                     </li>
-                                    <li><a href="celebrity.php">Celebrity</a></li>
-                                    <li><a href="financial.php">Financial Freedom</a>
-                                    </li>
-
-                                    <li><a href="house.php">House</a>
+                                    <li><a href="celebrity">Celebrity</a></li>
+                                    <li><a href="financial">Financial Freedom</a>
                                     </li>
 
-                                    <li><a href="travel.php">Travel</a>
+                                    <li><a href="house">House</a>
                                     </li>
 
-                                    <li><a href="winners.php">Winners</a></li>
-                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="travel">Travel</a>
+                                    </li>
+
+                                    <li><a href="winners">Winners</a></li>
+                                    <li><a href="about">About Us</a></li>
                                 </ul>
 
 
@@ -149,19 +149,19 @@
                     </div>
                 </div>
                 <ul class="mainmenu">
-                    <li><a href="car.php">Cars</a>
+                    <li><a href="cars">Cars</a>
                     </li>
-                    <li><a href="celebrity.php">Celebrity</a></li>
-                    <li><a href="financial.php">Financial Freedom</a></li>
-                    </li>
-
-                    <li><a href="house.php">Houses</a>
+                    <li><a href="celebrity">Celebrity</a></li>
+                    <li><a href="financial">Financial Freedom</a></li>
                     </li>
 
-                    <li><a href="travel.php">Travel</a>
+                    <li><a href="house">Houses</a>
+                    </li>
+
+                    <li><a href="travel">Travel</a>
                     </li>                                        
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="winners.php">Winners</a></li>
+                    <li><a href="about">About</a></li>
+                    <li><a href="winners">Winners</a></li>
                 </ul>
 
 

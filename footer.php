@@ -48,11 +48,11 @@
                                     <h4 class="title">PRIZES</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
-                                            <li><a href="cars.php">Cars</a></li>
-                                            <li><a href="celebrity.php">Celebrity</a></li>
-                                            <li><a href="financial.php">Financial Freedom</a></li>
-                                            <li><a href="house.php">Houses</a></li>
-                                            <li><a href="travel.php">Travel</a></li>
+                                            <li><a href="cars">Cars</a></li>
+                                            <li><a href="celebrity">Celebrity</a></li>
+                                            <li><a href="financial">Financial Freedom</a></li>
+                                            <li><a href="house">Houses</a></li>
+                                            <li><a href="travel">Travel</a></li>
                                             <li><a href="#">See All Prizes</a></li>
                                         </ul>
                                     </div>
@@ -76,8 +76,8 @@
                                     <h4 class="title">ABOUT</h4>
                                     <div class="inner">
                                         <ul class="footer-link link-hover">
-                                            <li><a href="about.php">About Us</a></li>
-                                            <li><a href="winners.php">Winners</a></li>
+                                            <li><a href="about">About Us</a></li>
+                                            <li><a href="winners">Winners</a></li>
                                             <li><a href="#">Impact</a></li>
                                             <li><a href="Careers">Careers</a></li>
                                         </ul>

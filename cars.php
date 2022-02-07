@@ -52,7 +52,7 @@
                                 <div class="thumbnail"><a class="image" href="blog-details.html"><img src="assets/images/blog/blog-02.jpg" alt="Blog Image"></a></div>
                                 <div class="content">
                                     <ul class="rn-meta-list">
-                                        <li><a href="#">Fatima Asrafy</a></li>
+                                        <li><a href="#">Fatima Asrafy</a></li> 
                                         <li class="separator">/</li>
                                         <li>30 Nov 2021</li>
                                     </ul>
@@ -65,7 +65,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12 mt--30" data-sal="slide-up" data-sal-duration="700" data-sal-delay="200">
                         <div class="rn-card box-card-style-default">
                             <div class="inner">
-                                <div class="thumbnail"><a class="image" href="blog-details.html"><img src="assets/images/blog/blog-03.jpg" alt="Blog Image"></a></div>
+                                <div class="thumbnail"><a class="image" href="blog-details.html"><img src="assets/images/omaze-site/cars/pexels-mike-120049.jpg" alt="Blog Image"></a></div>
                                 <div class="content">
                                     <ul class="rn-meta-list">
                                         <li><a href="#">John Dou</a></li>

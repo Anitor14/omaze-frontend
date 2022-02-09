@@ -51,7 +51,7 @@
                                 <div class="thumbnail"><a class="image" href="blog-details.html"><img src="assets/images/blog/blog-01.jpg" alt="Blog Image"></a></div>
                                 <div class="content">
                                     <ul class="rn-meta-list">
-                                        <li><a href="#">Irin Pervin</a></li>
+                                        <li><a href="#">Michael Jordan</a></li>
                                         <li class="separator">/</li>
                                         <li>10 Dec 2021</li>
                                     </ul>
